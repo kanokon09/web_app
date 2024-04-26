@@ -1,0 +1,22 @@
+.merror, .warning, .msucess {
+  padding: 20px;
+  margin: 10px;
+  border: solid 3px;
+  text-align: center;
+  color: aliceblue;
+}
+
+.msucess {
+  background-color: rgb(125, 120, 184);
+  border-color: rgb(175, 163, 146);
+}
+
+.warning {
+  background-color: rgb(80, 185, 136);
+  border-color: green;
+}
+
+.merror {
+  background-color: orange;
+  border-color: coral;
+}/*# sourceMappingURL=message.css.map */
